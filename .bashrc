@@ -126,6 +126,9 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 . "/home/damien/.deno/env"
 
+if [ -f /home/damien/.deno/env ]; then
+    . /home/damien/.deno/env
+fi
 
 if [ -f ~/.config/bash/settings.bash ]; then
     . ~/.config/bash/settings.bash
