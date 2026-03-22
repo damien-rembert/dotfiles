@@ -133,6 +133,10 @@ if [ -f ~/.config/bash/settings.bash ]; then
 fi
 # Created by `pipx` on 2024-10-26 20:39:00
 export PATH="$PATH:/home/damien/.local/bin"
+
+# TODO: handle distro specific stuff
+# TODO: handle secrets eg pushover
+# TODO: move system specific stuff to system specific files
 export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64
 export PATH=$JAVA_HOME/bin:$PATH
 
