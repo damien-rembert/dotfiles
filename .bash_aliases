@@ -1,10 +1,11 @@
-alias todo=topydo
-alias today='topydo ls due:\<=today'
+# alias todo=topydo
+alias todo=todo.sh
+# alias today='topydo ls due:\<=today'
 alias say=espeak-ng
-alias beeper='~/bin/Beeper*.AppImage --no-sandbox'
-alias digikam='~/bin/digiKam*.AppImage'
-alias mediaelch='~/bin/MediaElch*.AppImage'
-alias bat=batcat
+# alias beeper='~/bin/Beeper*.AppImage --no-sandbox'
+# alias digikam='~/bin/digiKam*.AppImage'
+# alias mediaelch='~/bin/MediaElch*.AppImage'
+# alias bat=batcat
 # alias filebot='bash /mnt/data/exe/FileBot_4.7-portable/filebot.sh'
 # alias omegat='bash /mnt/data/OmegaT/OmegaT_5.6.0_Beta_Without_JRE/OmegaT'
 # alias qtodo='python3 "/home/damien/qtodo/bin/qtodotxt"'
