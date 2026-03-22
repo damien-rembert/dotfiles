@@ -9,3 +9,4 @@ ln -f .bash_aliases ~/.bash_aliases
 ln -f .zshrc ~/.zshrc
 ln -f .vimrc ~/.vimrc
 ln -f .tmux.conf ~/.tmux.conf
+ln -f .config/todo/config ~/.config/todo/config
