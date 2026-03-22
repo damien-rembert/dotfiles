@@ -10,3 +10,4 @@ ln -f .zshrc ~/.zshrc
 ln -f .vimrc ~/.vimrc
 ln -f .tmux.conf ~/.tmux.conf
 ln -f .config/todo/config ~/.config/todo/config
+ln -f .config/ttdl/ttdl.toml ~/.config/ttdl/ttdl.toml
