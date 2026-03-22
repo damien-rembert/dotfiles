@@ -1,0 +1,4 @@
+for bcfile in $HOME/bash_completion.d/*
+	do
+		. $bcfile
+	done
