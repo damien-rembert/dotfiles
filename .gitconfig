@@ -3,3 +3,5 @@
 	email = damien.rembert@gmail.com
 [init]
 	defaultBranch = main
+[diff]
+	algorithm = histogram
